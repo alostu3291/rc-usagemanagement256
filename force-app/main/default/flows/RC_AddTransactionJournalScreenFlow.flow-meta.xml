@@ -192,8 +192,8 @@
         <dataType>DateTime</dataType>
         <expression>NOW()</expression>
     </formulas>
-    <interviewLabel>Alex Add Transaction Journal Screen Flow {!$Flow.CurrentDateTime}</interviewLabel>
-    <label>RCB_Manually Add Transaction Journals (Conceptual)</label>
+    <interviewLabel>RC_AddTransactionJournalScreenFlow {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>Add Transaction Journals (Conceptual)</label>
     <loops>
         <name>Loop_Assets</name>
         <label>Loop Assets</label>

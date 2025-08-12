@@ -206,8 +206,8 @@
                     <name>uiBehavior</name>
                     <value>readonly</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.LiableSummaryIdHyperlink__c</fieldItem>
-                <identifier>RecordLiableSummaryIdHyperlink_cField</identifier>
+                <fieldItem>Record.RC_LiableSummaryIdHyperlink__c</fieldItem>
+                <identifier>RecordRC_LiableSummaryIdHyperlink_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -216,8 +216,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.AssetId__c</fieldItem>
-                <identifier>RecordAssetId_cField</identifier>
+                <fieldItem>Record.RC_AssetId__c</fieldItem>
+                <identifier>RecordRC_AssetId_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -226,8 +226,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.UoMId__c</fieldItem>
-                <identifier>RecordUoMId_cField</identifier>
+                <fieldItem>Record.RC_UoMId__c</fieldItem>
+                <identifier>RecordRC_UoMId_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -236,8 +236,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.UEBId__c</fieldItem>
-                <identifier>RecordUEBId_cField</identifier>
+                <fieldItem>Record.RC_UEBId__c</fieldItem>
+                <identifier>RecordRC_UEBId_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -246,8 +246,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.GrantBindingTargetId__c</fieldItem>
-                <identifier>RecordGrantBindingTargetId_cField</identifier>
+                <fieldItem>Record.RC_GrantBindingTargetId__c</fieldItem>
+                <identifier>RecordRC_GrantBindingTargetId_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -256,8 +256,8 @@
                     <name>uiBehavior</name>
                     <value>readonly</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.AssetIdHyperlink__c</fieldItem>
-                <identifier>RecordAssetIdHyperlink_cField</identifier>
+                <fieldItem>Record.RC_AssetIdHyperlink__c</fieldItem>
+                <identifier>RecordRC_AssetIdHyperlink_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -266,8 +266,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.AssetIdName__c</fieldItem>
-                <identifier>RecordAssetIdName_cField</identifier>
+                <fieldItem>Record.RC_AssetIdName__c</fieldItem>
+                <identifier>RecordRC_AssetIdName_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -276,8 +276,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.UoMIdName__c</fieldItem>
-                <identifier>RecordUoMIdName_cField</identifier>
+                <fieldItem>Record.RC_UoMIdName__c</fieldItem>
+                <identifier>RecordRC_UoMIdName_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -286,8 +286,8 @@
                     <name>uiBehavior</name>
                     <value>readonly</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.UoMIdHyperlink__c</fieldItem>
-                <identifier>RecordUoMIdHyperlink_cField</identifier>
+                <fieldItem>Record.RC_UoMIdHyperlink__c</fieldItem>
+                <identifier>RecordRC_UoMIdHyperlink_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -296,8 +296,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.UEBIdName__c</fieldItem>
-                <identifier>RecordUEBIdName_cField</identifier>
+                <fieldItem>Record.RC_UEBIdName__c</fieldItem>
+                <identifier>RecordRC_UEBIdName_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -306,8 +306,8 @@
                     <name>uiBehavior</name>
                     <value>readonly</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.UEBIdHyperlink__c</fieldItem>
-                <identifier>RecordUEBIdHyperlink_cField</identifier>
+                <fieldItem>Record.RC_UEBIdHyperlink__c</fieldItem>
+                <identifier>RecordRC_UEBIdHyperlink_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -316,8 +316,8 @@
                     <name>uiBehavior</name>
                     <value>none</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.GrantBindingTargetIdName__c</fieldItem>
-                <identifier>RecordGrantBindingTargetIdName_cField</identifier>
+                <fieldItem>Record.RC_GrantBindingTargetIdName__c</fieldItem>
+                <identifier>RecordRC_GrantBindingTargetIdName_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <itemInstances>
@@ -326,8 +326,8 @@
                     <name>uiBehavior</name>
                     <value>readonly</value>
                 </fieldInstanceProperties>
-                <fieldItem>Record.GrantBindingTargetIdHyperlink__c</fieldItem>
-                <identifier>RecordGrantBindingTargetIdHyperlink_cField</identifier>
+                <fieldItem>Record.RC_GrantBindingTargetIdHyperlink__c</fieldItem>
+                <identifier>RecordRC_GrantBindingTargetIdHyperlink_cField</identifier>
             </fieldInstance>
         </itemInstances>
         <name>Facet-0e4fd99c-3db5-4d08-9d97-992e4a4b6bf3</name>

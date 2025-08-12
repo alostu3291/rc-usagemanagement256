@@ -1503,6 +1503,20 @@
                 <identifier>flowruntime_interview2</identifier>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>flowLayout</name>
+                    <value>oneColumn</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>flowName</name>
+                    <value>RC_MonitorWorkflowServicesScreenFlow</value>
+                </componentInstanceProperties>
+                <componentName>flowruntime:interview</componentName>
+                <identifier>flowruntime_interview5</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>Facet-lj6r3syayzs</name>
         <type>Facet</type>
     </flexiPageRegions>

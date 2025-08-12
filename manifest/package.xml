@@ -41,6 +41,7 @@
         <members>RC_AddTransactionJournalScreenFlow</members>
         <members>RC_OrchestrateUsage</members>
         <members>RC_OutputUsageDataTables</members>
+        <members>RC_MonitorWorkflowServicesScreenFlow</members>
         <name>Flow</name>
     </types>
     <types>

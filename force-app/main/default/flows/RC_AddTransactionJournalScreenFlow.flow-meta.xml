@@ -153,7 +153,7 @@
             <label>Yes</label>
         </rules>
     </decisions>
-    <description>Changed activitydates - filtered usage only products</description>
+    <description>changed startdate (add one day)</description>
     <dynamicChoiceSets>
         <name>Choice_Asset</name>
         <collectionReference>Asset_ContainsAnchorProducts</collectionReference>
@@ -187,6 +187,11 @@
         <valueField>UsageResourceId</valueField>
     </dynamicChoiceSets>
     <environments>Default</environments>
+    <formulas>
+        <name>GetAssetLifecycleStartDateAddOneDay</name>
+        <dataType>DateTime</dataType>
+        <expression>{!Get_Asset.LifecycleStartDate} + 1</expression>
+    </formulas>
     <formulas>
         <name>Now</name>
         <dataType>DateTime</dataType>
@@ -650,7 +655,7 @@
             <name>Date_StartDate</name>
             <dataType>DateTime</dataType>
             <defaultValue>
-                <elementReference>Get_Asset.LifecycleStartDate</elementReference>
+                <elementReference>GetAssetLifecycleStartDateAddOneDay</elementReference>
             </defaultValue>
             <fieldText>Start Date</fieldText>
             <fieldType>InputField</fieldType>
@@ -669,7 +674,7 @@
             <name>Date_EndDate</name>
             <dataType>DateTime</dataType>
             <defaultValue>
-                <elementReference>Get_Asset.LifecycleStartDate</elementReference>
+                <elementReference>GetAssetLifecycleStartDateAddOneDay</elementReference>
             </defaultValue>
             <fieldText>End Date</fieldText>
             <fieldType>InputField</fieldType>

@@ -42,6 +42,9 @@
         <members>RC_OrchestrateUsage</members>
         <members>RC_OutputUsageDataTables</members>
         <members>RC_MonitorWorkflowServicesScreenFlow</members>
+        <members>RC_Usage_Data_Tables_Concept_TJ</members>
+        <members>RC_Usage_Data_Tables_Concept_US</members>
+        <members>RC_Usage_Data_Tables_Concept_LS</members>
         <name>Flow</name>
     </types>
     <types>

@@ -449,9 +449,9 @@
         <label>Screen1</label>
         <locationX>0</locationX>
         <locationY>0</locationY>
-        <allowBack>true</allowBack>
+        <allowBack>false</allowBack>
         <allowFinish>true</allowFinish>
-        <allowPause>true</allowPause>
+        <allowPause>false</allowPause>
         <fields>
             <name>DT_TJ</name>
             <dataTypeMappings>
@@ -638,6 +638,7 @@
                 </width>
             </styleProperties>
         </fields>
+        <nextOrFinishButtonLabel>Refresh</nextOrFinishButtonLabel>
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
     </screens>
